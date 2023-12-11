@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=italosaager&show_icons=true&theme=radical)
+// ![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=italosaager&show_icons=true&theme=radical)
 
 ## Social media
 <div style="display: inline_block"><br/>
