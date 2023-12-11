@@ -10,7 +10,7 @@
 </div>
 <img align="center" alt="instagram" src"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## Main Skills
 <div style="display: inline_block"><br/>
