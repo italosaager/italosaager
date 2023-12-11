@@ -3,17 +3,13 @@
 ![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=italosaager&show_icons=true&theme=radical)
 -->
 ## Social media
-<div style="display: flex">
-  <p align="center">
+<div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://www.linkedin.com/in/italosaager/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin-right: 10px;"/>
   </a>
-</p>
-<p align="center">
   <a href="https://www.instagram.com/italosaager/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
-</p>
 </div>
 
 ## Main Skills
