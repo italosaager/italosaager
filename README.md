@@ -3,7 +3,7 @@
 ![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=italosaager&show_icons=true&theme=radical)
 -->
 ## Social media
-<div style="display: inline_block">
+<div style="display: flex, flex-direction: column">
   <p align="center">
   <a href="https://www.linkedin.com/in/italosaager/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
