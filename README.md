@@ -15,4 +15,4 @@ In my development journey, I've embraced a variety of languages and frameworks, 
 [![Main Skills](https://skillicons.dev/icons?i=react,angular,express)](https://skillicons.dev)
 
 ## Learning
-[![Main Skills](https://skillicons.dev/icons?i=spring,django,aws)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=spring,django,aws,vue)](https://skillicons.dev)
