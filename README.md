@@ -6,7 +6,7 @@ In my development journey, I've embraced a variety of languages and frameworks, 
 ![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=italosaager&show_icons=true&theme=radical)
 -->
 ## Main Skills
-[![Main Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,postgres,postman,docker,gitlab,github)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,postgres,postman,docker,gitlab,github,markdown)](https://skillicons.dev)
 
 ## Secondary Skills
 [![Main Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev)
